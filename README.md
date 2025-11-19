@@ -3,7 +3,7 @@
 ## Integrantes
 Gustavo Oliveira Ribeiro - RM - 559163  
 Augusto Douglas -   
-Gabriel Vasquez -  
+Gabriel Vasquez -  RM:557056
 
 ## Descrição
 Este projeto implementa quatro abordagens para resolver o problema de seleção ótima de projetos com capacidade limitada de Horas-Especialista. É um mapeamento direto do Problema da Mochila 0/1 (0/1 Knapsack Problem).
