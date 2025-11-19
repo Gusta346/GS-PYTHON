@@ -2,7 +2,7 @@
 
 ## Integrantes
 Gustavo Oliveira Ribeiro - RM - 559163  
-Augusto Douglas -   
+Augusto Douglas - RM - 558371  
 Gabriel Vasquez -  RM:557056
 
 ## Descrição
